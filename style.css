@@ -1,0 +1,24 @@
+.out {
+    margin: auto;
+    background-color: slategray;
+    padding: 10px;
+    display: inline-block;
+}
+
+.in {
+    background-color: snow;
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
